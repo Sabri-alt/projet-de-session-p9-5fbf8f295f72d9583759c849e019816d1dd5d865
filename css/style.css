@@ -162,7 +162,7 @@ a:focus {
 }
 
 .custom_nav-container .navbar-nav {
-  padding-left: 18%;
+  padding-left: 5%;
 }
 
 .custom_nav-container .navbar-nav .nav-item .nav-link {
@@ -184,7 +184,7 @@ a:focus {
   height: auto;
   padding: 0;
   border: none;
-  color: #ffffff;
+  color: #000000;
   margin: 0 10px;
 }
 
@@ -206,7 +206,7 @@ a:focus {
 }
 
 .user_option .user_link {
-  color: #ffffff;
+  color: #000000;
 }
 
 .user_option .user_link:hover {
@@ -228,8 +228,8 @@ a:focus {
 .user_option .cart_link svg {
   width: 17px;
   height: auto;
-  fill: #ffffff;
-  margin-bottom: 2px;
+  fill:rgb(237 146 9);
+  margin-bottom: 2px;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
 }
 
 .user_option .cart_link:hover svg {
